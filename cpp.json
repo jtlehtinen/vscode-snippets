@@ -17,10 +17,10 @@
 		],
 		"description": "Code snippet for 'for' loop"
 	},
-  "for-each loop": {
+  "foreach loop": {
 		"prefix": "foreach",
 		"body": [
-			"for(auto ${1:var} : ${2:iterable}) {",
+			"for (auto ${1:var} : ${2:iterable}) {",
 			"  $3",
 			"}"
 		],

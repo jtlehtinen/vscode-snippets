@@ -1,0 +1,11 @@
+{
+  "foreach loop": {
+		"prefix": "foreach",
+		"body": [
+			"foreach (var ${1:var} in ${2:collection}) {",
+			"  $3",
+			"}"
+		],
+		"description": "Code snippet for foreach loop"
+	}
+}
